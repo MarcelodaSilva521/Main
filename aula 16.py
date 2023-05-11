@@ -2,6 +2,7 @@ nome = input('Qual é o seu nome: ')
 idade = input('idade: ' )
 
 cidade = input('Onde vc mora: ')
+bonito =  input ( ' ')
 
 
 
